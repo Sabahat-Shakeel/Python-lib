@@ -1,0 +1,12 @@
+{
+    "data": [
+      {"id": 1, "name": "Ayesha", "education": "Bachelor's"},
+      {"id": 2, "name": "Ayan", "education": "Master's"},
+      {"id": 3, "name": "Fatima", "education": "PhD"},
+      {"id": 4, "name": "Zaid", "education": "Diploma"},
+      {"id": 5, "name": "Maryam", "education": "High School"},
+      {"id": 6, "name": "Yusuf", "education": "Undergraduate"}
+    ],
+    "city": "Karachi",
+    "country": "Pakistan"
+  }

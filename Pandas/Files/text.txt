@@ -1,0 +1,9 @@
+Pandas is an open-source Python library for data manipulation and analysis, offering efficient data structures like Series and DataFrame.
+
+Concatenation: Appending DataFrames along a particular axis (rows or columns).
+
+Reshaping: Changing the structure of a DataFrame, such as pivoting or melting.
+
+Handling Missing Data: Identifying and managing missing or null values within a dataset.
+
+File I/O Operations: Reading from and writing to various file formats like CSV, Excel, SQL databases, and JSON
